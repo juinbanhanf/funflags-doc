@@ -1,0 +1,7 @@
+- **Sections**
+  - [Intro / 简介](intro.md)
+  - [Mechanics / 机制](mechanics.md)
+  - [Auction Rules / 拍卖规则](auction.md)
+  - [Round Allocation / 轮次分配](rounds.md)
+  - [Fees & Routing / 费用分配](fees.md)
+  - [Tokenomics / 代币经济](tokenomics.md)
